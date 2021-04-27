@@ -75,7 +75,7 @@ img {
 }
 
 .background-blue {
-  background: #4a63e7;
+  background: #cd732a;
 }
 
 .td {
@@ -122,7 +122,7 @@ a {
   transition: all 0.3s ease-in-out;
 }
 a:hover {
-  color: #ff5959;
+  color: #21bab6;
   text-decoration: none;
 }
 a:focus {
@@ -158,12 +158,12 @@ pre {
 
 ::selection {
   color: #fff;
-  background: #ff5959;
+  background: #21bab6;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #ff5959;
+  background: #21bab6;
 }
 
 .z-1 {
@@ -254,7 +254,7 @@ pre {
 /*=================================================================*/
 header.left {
   color: #fff;
-  background: #4a63e7;
+  background: #cd732a;
   border-radius: 20px;
   min-height: 620px;
   max-height: 620px;
@@ -311,7 +311,7 @@ header.left button.close {
   border: 0;
   -webkit-appearance: none;
   opacity: 1;
-  color: #ff5959;
+  color: #21bab6;
   font-weight: 400;
   font-size: 16px;
   border-radius: 50%;
@@ -337,7 +337,7 @@ header .site-title {
 }
 header .site-title.dot:after {
   content: "";
-  background-color: #ff5959;
+  background-color: #21bab6;
   border-radius: 50%;
   display: inline-block;
   margin-left: 5px;
@@ -374,7 +374,7 @@ header .vertical-menu li a:hover {
 }
 header .vertical-menu li a.active:before {
   content: "";
-  background: #ff5959;
+  background: #21bab6;
   display: block;
   height: 18px;
   left: -30px;
@@ -388,7 +388,7 @@ header .copyright {
 }
 
 .mobile-header {
-  background: #4a63e7;
+  background: #cd732a;
   border-radius: 20px;
   display: none;
   -webkit-transform: translateX(0);
@@ -413,12 +413,12 @@ header .copyright {
 }
 .mobile-header .site-title {
   vertical-align: middle;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 700;
 }
 .mobile-header .site-title.dot:after {
   content: "";
-  background-color: #ff5959;
+  background-color: #21bab6;
   border-radius: 50%;
   display: inline-block;
   margin-left: 5px;
@@ -494,7 +494,7 @@ main.content.push {
 }
 .hero .cta h1 .dot:after {
   content: "";
-  background-color: #ff5959;
+  background-color: #21bab6;
   border-radius: 50%;
   display: inline-block;
   margin-left: 5px;
@@ -530,7 +530,7 @@ section.padding-60 {
 }
 .section-title:after {
   content: "";
-  background: #ff5959;
+  background: #21bab6;
   border-radius: 25px;
   display: block;
   height: 5px;
@@ -573,8 +573,8 @@ section.padding-60 {
   transition: all 0.3s ease-in-out;
 }
 .service-item:hover {
-  border-color: #ff5959;
-  background: #ff5959;
+  border-color: #21bab6;
+  background: #21bab6;
   color: #fff;
   -webkit-box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.15);
@@ -596,14 +596,14 @@ section.padding-60 {
   left: calc(20% + 2px);
   bottom: 0px;
   width: 1px;
-  background: #ff5959;
+  background: #21bab6;
 }
 .timeline-line::before,
 .timeline-line::after {
   content: "";
   display: block;
   border-radius: 100%;
-  background: #ff5959;
+  background: #21bab6;
   position: absolute;
   left: -3px;
   height: 7px;
@@ -641,7 +641,7 @@ section.padding-60 {
   position: absolute;
   width: 8px;
   height: 8px;
-  border: 1px solid #ff5959;
+  border: 1px solid #21bab6;
   background-color: #fff;
   border-radius: 100%;
   padding: 4.5px;
@@ -716,7 +716,7 @@ section.padding-60 {
   transition: all cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
 }
 .portfolio-item .plus-icon {
-  color: #ff5959;
+  color: #21bab6;
   background: #fff;
   border-radius: 100%;
   position: absolute;
@@ -734,7 +734,7 @@ section.padding-60 {
   transition: all 0.3s ease-in-out;
 }
 .portfolio-item .mask {
-  background: #ff5959;
+  background: #21bab6;
   position: absolute;
   left: 0;
   top: 0;
@@ -783,7 +783,7 @@ section.padding-60 {
 }
 
 .portfolio-info i {
-  color: #ff5959;
+  color: #21bab6;
   font-size: 14px;
   margin-right: 10px;
 }
@@ -805,7 +805,7 @@ section.padding-60 {
   height: 7px;
 }
 .portfolio-filter li.current {
-  background: #ff5959;
+  background: #21bab6;
   color: #fff;
   padding: 6px 14px 4px;
   border-radius: 30px;
@@ -822,7 +822,7 @@ section.padding-60 {
 .price-item i {
   background: #fff;
   font-size: 24px;
-  color: #ff5959;
+  color: #21bab6;
   display: block;
   border-radius: 50%;
   border: solid 1px #efefef;
@@ -845,7 +845,7 @@ section.padding-60 {
 .price-item .plan {
   font-size: 12px;
   color: #fff;
-  background: #ff5959;
+  background: #21bab6;
   border-radius: 25px;
   display: inline-block;
   padding: 1px 9px;
@@ -878,7 +878,7 @@ section.padding-60 {
 }
 .price-item.recommended {
   color: #fff;
-  background: #4a63e7;
+  background: #cd732a;
 }
 .price-item.recommended .price {
   color: #fff;
@@ -894,7 +894,7 @@ section.padding-60 {
 }
 .testimonial-item .symbol {
   font-weight: bold;
-  color: #ff5959;
+  color: #21bab6;
   font-size: 12px;
   margin-bottom: 20px;
   display: block;
@@ -949,6 +949,109 @@ section.padding-60 {
 }
 
 /*=================================================================*/
+/*                        SLIDER                             
+/*=================================================================*/
+
+/* camera slider */
+
+#slideshow-wrapper {
+  width: 100%;
+  background: #fcfcfc;
+  float: left;
+}
+
+#camera-slide {
+  height: 425px !important;
+}
+
+.camera_caption p {
+  margin-bottom: 20px;
+}
+
+.camera_prev {
+  left: 0;
+  top: 50%;
+}
+
+.camera_next {
+  right: 0;
+  top: 50%;
+}
+
+.camera_prev > span:before {
+  content: "\f104";
+  font-family: "FontAwesome";
+  color: #fff;
+  padding: 20px 20px 20px 10px;
+  font-size: 32px;
+  display: block;
+}
+
+.camera_next > span:before {
+  content: "\f105";
+  font-family: "FontAwesome";
+  color: #fff;
+  padding: 20px 20px 20px 20px;
+  font-size: 32px;
+  display: block;
+}
+
+/* --- layerslider --- */
+
+#layerslider-container {
+  width: 100%;
+  min-width: 300px;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+#layerslider-container-fw {
+  width: 100%;
+  margin: 50px auto;
+}
+
+.ls-highlighted-h.color {
+  padding: 4px 8px;
+  color: #fff;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+/* --- flexslider --- */
+
+#main-slider.flexslider {
+  margin-bottom: 40px;
+  background: #fff;
+  border: none;
+  position: relative;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -o-border-radius: 0;
+  border-radius: 0;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  zoom: 1;
+}
+
+.flexslider {
+  background: #fff;
+  border: none;
+  position: relative;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -o-border-radius: 0;
+  border-radius: 0;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  zoom: 1;
+}
+
+/*=================================================================*/
 /*                      BLOG                              
 /*=================================================================*/
 .blog-item .thumb {
@@ -979,7 +1082,7 @@ section.padding-60 {
 }
 .blog-item .category {
   border-radius: 50px;
-  background: #ff5959;
+  background: #21bab6;
   color: #fff;
   font-size: 12px;
   padding: 1px 8px;
@@ -997,7 +1100,7 @@ section.padding-60 {
 }
 .blog-item .meta li:after {
   content: "";
-  background: #ff5959;
+  background: #21bab6;
   border-radius: 100%;
   display: inline-block;
   height: 3px;
@@ -1011,7 +1114,7 @@ section.padding-60 {
 
 .contact-info i {
   font-size: 24px;
-  color: #ff5959;
+  color: #21bab6;
   float: left;
 }
 .contact-info .details {
@@ -1027,7 +1130,7 @@ section.padding-60 {
 /*=================================================================*/
 .overlay {
   border-radius: 20px;
-  background: #4a63e7;
+  background: #cd732a;
   left: 0;
   top: 0;
   opacity: 0.9;
@@ -1040,7 +1143,7 @@ section.padding-60 {
   font-size: 24px;
   color: #fff;
   display: inline-block;
-  background: #ff5959;
+  background: #21bab6;
   border-radius: 50%;
   height: 50px;
   line-height: 50px;
@@ -1049,7 +1152,7 @@ section.padding-60 {
 }
 
 .icon-simple {
-  color: #ff5959;
+  color: #21bab6;
   font-size: 24px;
 }
 
@@ -1113,10 +1216,10 @@ section.padding-60 {
 
 .btn-default {
   color: #fff;
-  background: #ff5959;
+  background: #21bab6;
 }
 .btn-default:hover {
-  background: #4a63e7;
+  background: #cd732a;
   color: #fff;
   -webkit-transform: translateY(-3px);
   -moz-transform: translateY(-3px);
@@ -1130,11 +1233,11 @@ section.padding-60 {
 
 .btn-alt {
   color: #fff;
-  background: #4a63e7;
+  background: #cd732a;
 }
 .btn-alt:hover {
   color: #fff;
-  background: #ff5959;
+  background: #21bab6;
   -webkit-transform: translateY(-3px);
   -moz-transform: translateY(-3px);
   -ms-transform: translateY(-3px);
@@ -1147,7 +1250,7 @@ section.padding-60 {
 
 .btn-border {
   color: #fff;
-  background: #4a63e7;
+  background: #cd732a;
 }
 .btn-border:hover {
   color: #fff;
@@ -1230,7 +1333,7 @@ section.padding-60 {
   display: inline-block;
   position: absolute;
   top: 0;
-  background-color: #ff5959;
+  background-color: #21bab6;
   border-radius: 100%;
   -webkit-animation: sk-bounce 2s infinite ease-in-out;
   animation: sk-bounce 2s infinite ease-in-out;
@@ -1309,7 +1412,7 @@ section.padding-60 {
 }
 
 .form-control:focus {
-  border-color: #ff5959;
+  border-color: #21bab6;
   outline: 0;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -1443,7 +1546,7 @@ section.padding-60 {
   line-height: 3px;
   color: #fff;
   text-align: center;
-  background-color: #ff5959;
+  background-color: #21bab6;
   -webkit-box-shadow: none;
   box-shadow: none;
   -webkit-transition: width 0.6s ease;
@@ -1459,7 +1562,7 @@ section.padding-60 {
 }
 .social-icons li a {
   color: #fff;
-  background: #ff5959;
+  background: #21bab6;
   border-radius: 50%;
   display: block;
   height: 30px;
@@ -1468,7 +1571,7 @@ section.padding-60 {
   width: 30px;
 }
 .social-icons li a:hover {
-  color: #ff5959;
+  color: #21bab6;
   background: #fff;
 }
 
@@ -1510,7 +1613,7 @@ section.padding-60 {
 }
 
 #return-to-top:hover {
-  background: #ff5959;
+  background: #21bab6;
 }
 
 .videoWrapper {
@@ -1680,7 +1783,7 @@ section.padding-60 {
 }
 
 .slick-dots li.slick-active button:before {
-  background: #ff5959;
+  background: #21bab6;
   opacity: 1;
   height: 7px;
   width: 7px;
@@ -1698,7 +1801,7 @@ section.padding-60 {
 .slick-dots li button:hover:before,
 .slick-dots li button:focus:before {
   opacity: 1;
-  background: #ff5959;
+  background: #21bab6;
 }
 
 /*=================================================================*/
