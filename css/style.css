@@ -75,7 +75,7 @@ img {
 }
 
 .background-blue {
-  background: #cd732a;
+  background: #f58220;
 }
 
 .td {
@@ -122,7 +122,7 @@ a {
   transition: all 0.3s ease-in-out;
 }
 a:hover {
-  color: #21bab6;
+  color: #4fe35d;
   text-decoration: none;
 }
 a:focus {
@@ -158,12 +158,12 @@ pre {
 
 ::selection {
   color: #fff;
-  background: #21bab6;
+  background: #4fe35d;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #21bab6;
+  background: #4fe35d;
 }
 
 .z-1 {
@@ -254,7 +254,7 @@ pre {
 /*=================================================================*/
 header.left {
   color: #fff;
-  background: #cd732a;
+  background: #f58220;
   border-radius: 20px;
   min-height: 620px;
   max-height: 620px;
@@ -311,7 +311,7 @@ header.left button.close {
   border: 0;
   -webkit-appearance: none;
   opacity: 1;
-  color: #21bab6;
+  color: #4fe35d;
   font-weight: 400;
   font-size: 16px;
   border-radius: 50%;
@@ -337,7 +337,7 @@ header .site-title {
 }
 header .site-title.dot:after {
   content: "";
-  background-color: #21bab6;
+  background-color: #4fe35d;
   border-radius: 50%;
   display: inline-block;
   margin-left: 5px;
@@ -374,7 +374,7 @@ header .vertical-menu li a:hover {
 }
 header .vertical-menu li a.active:before {
   content: "";
-  background: #21bab6;
+  background: #4fe35d;
   display: block;
   height: 18px;
   left: -30px;
@@ -388,7 +388,7 @@ header .copyright {
 }
 
 .mobile-header {
-  background: #cd732a;
+  background: #f58220;
   border-radius: 20px;
   display: none;
   -webkit-transform: translateX(0);
@@ -418,7 +418,7 @@ header .copyright {
 }
 .mobile-header .site-title.dot:after {
   content: "";
-  background-color: #21bab6;
+  background-color: #4fe35d;
   border-radius: 50%;
   display: inline-block;
   margin-left: 5px;
@@ -494,7 +494,7 @@ main.content.push {
 }
 .hero .cta h1 .dot:after {
   content: "";
-  background-color: #21bab6;
+  background-color: #4fe35d;
   border-radius: 50%;
   display: inline-block;
   margin-left: 5px;
@@ -530,7 +530,7 @@ section.padding-60 {
 }
 .section-title:after {
   content: "";
-  background: #21bab6;
+  background: #4fe35d;
   border-radius: 25px;
   display: block;
   height: 5px;
@@ -573,8 +573,8 @@ section.padding-60 {
   transition: all 0.3s ease-in-out;
 }
 .service-item:hover {
-  border-color: #21bab6;
-  background: #21bab6;
+  border-color: #4fe35d;
+  background: #4fe35d;
   color: #fff;
   -webkit-box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.15);
@@ -596,14 +596,14 @@ section.padding-60 {
   left: calc(20% + 2px);
   bottom: 0px;
   width: 1px;
-  background: #21bab6;
+  background: #4fe35d;
 }
 .timeline-line::before,
 .timeline-line::after {
   content: "";
   display: block;
   border-radius: 100%;
-  background: #21bab6;
+  background: #4fe35d;
   position: absolute;
   left: -3px;
   height: 7px;
@@ -641,7 +641,7 @@ section.padding-60 {
   position: absolute;
   width: 8px;
   height: 8px;
-  border: 1px solid #21bab6;
+  border: 1px solid #4fe35d;
   background-color: #fff;
   border-radius: 100%;
   padding: 4.5px;
@@ -716,7 +716,7 @@ section.padding-60 {
   transition: all cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
 }
 .portfolio-item .plus-icon {
-  color: #21bab6;
+  color: #4fe35d;
   background: #fff;
   border-radius: 100%;
   position: absolute;
@@ -734,7 +734,7 @@ section.padding-60 {
   transition: all 0.3s ease-in-out;
 }
 .portfolio-item .mask {
-  background: #21bab6;
+  background: #4fe35d;
   position: absolute;
   left: 0;
   top: 0;
@@ -783,7 +783,7 @@ section.padding-60 {
 }
 
 .portfolio-info i {
-  color: #21bab6;
+  color: #4fe35d;
   font-size: 14px;
   margin-right: 10px;
 }
@@ -805,7 +805,7 @@ section.padding-60 {
   height: 7px;
 }
 .portfolio-filter li.current {
-  background: #21bab6;
+  background: #4fe35d;
   color: #fff;
   padding: 6px 14px 4px;
   border-radius: 30px;
@@ -822,7 +822,7 @@ section.padding-60 {
 .price-item i {
   background: #fff;
   font-size: 24px;
-  color: #21bab6;
+  color: #4fe35d;
   display: block;
   border-radius: 50%;
   border: solid 1px #efefef;
@@ -845,7 +845,7 @@ section.padding-60 {
 .price-item .plan {
   font-size: 12px;
   color: #fff;
-  background: #21bab6;
+  background: #4fe35d;
   border-radius: 25px;
   display: inline-block;
   padding: 1px 9px;
@@ -878,7 +878,7 @@ section.padding-60 {
 }
 .price-item.recommended {
   color: #fff;
-  background: #cd732a;
+  background: #f58220;
 }
 .price-item.recommended .price {
   color: #fff;
@@ -894,7 +894,7 @@ section.padding-60 {
 }
 .testimonial-item .symbol {
   font-weight: bold;
-  color: #21bab6;
+  color: #4fe35d;
   font-size: 12px;
   margin-bottom: 20px;
   display: block;
@@ -1082,7 +1082,7 @@ section.padding-60 {
 }
 .blog-item .category {
   border-radius: 50px;
-  background: #21bab6;
+  background: #4fe35d;
   color: #fff;
   font-size: 12px;
   padding: 1px 8px;
@@ -1100,7 +1100,7 @@ section.padding-60 {
 }
 .blog-item .meta li:after {
   content: "";
-  background: #21bab6;
+  background: #4fe35d;
   border-radius: 100%;
   display: inline-block;
   height: 3px;
@@ -1114,7 +1114,7 @@ section.padding-60 {
 
 .contact-info i {
   font-size: 24px;
-  color: #21bab6;
+  color: #4fe35d;
   float: left;
 }
 .contact-info .details {
@@ -1130,7 +1130,7 @@ section.padding-60 {
 /*=================================================================*/
 .overlay {
   border-radius: 20px;
-  background: #cd732a;
+  background: #f58220;
   left: 0;
   top: 0;
   opacity: 0.9;
@@ -1143,7 +1143,7 @@ section.padding-60 {
   font-size: 24px;
   color: #fff;
   display: inline-block;
-  background: #21bab6;
+  background: #4fe35d;
   border-radius: 50%;
   height: 50px;
   line-height: 50px;
@@ -1152,7 +1152,7 @@ section.padding-60 {
 }
 
 .icon-simple {
-  color: #21bab6;
+  color: #4fe35d;
   font-size: 24px;
 }
 
@@ -1216,10 +1216,10 @@ section.padding-60 {
 
 .btn-default {
   color: #fff;
-  background: #21bab6;
+  background: #4fe35d;
 }
 .btn-default:hover {
-  background: #cd732a;
+  background: #f58220;
   color: #fff;
   -webkit-transform: translateY(-3px);
   -moz-transform: translateY(-3px);
@@ -1233,11 +1233,11 @@ section.padding-60 {
 
 .btn-alt {
   color: #fff;
-  background: #cd732a;
+  background: #f58220;
 }
 .btn-alt:hover {
   color: #fff;
-  background: #21bab6;
+  background: #4fe35d;
   -webkit-transform: translateY(-3px);
   -moz-transform: translateY(-3px);
   -ms-transform: translateY(-3px);
@@ -1250,7 +1250,7 @@ section.padding-60 {
 
 .btn-border {
   color: #fff;
-  background: #cd732a;
+  background: #f58220;
 }
 .btn-border:hover {
   color: #fff;
@@ -1333,7 +1333,7 @@ section.padding-60 {
   display: inline-block;
   position: absolute;
   top: 0;
-  background-color: #21bab6;
+  background-color: #4fe35d;
   border-radius: 100%;
   -webkit-animation: sk-bounce 2s infinite ease-in-out;
   animation: sk-bounce 2s infinite ease-in-out;
@@ -1412,7 +1412,7 @@ section.padding-60 {
 }
 
 .form-control:focus {
-  border-color: #21bab6;
+  border-color: #4fe35d;
   outline: 0;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -1546,7 +1546,7 @@ section.padding-60 {
   line-height: 3px;
   color: #fff;
   text-align: center;
-  background-color: #21bab6;
+  background-color: #4fe35d;
   -webkit-box-shadow: none;
   box-shadow: none;
   -webkit-transition: width 0.6s ease;
@@ -1562,7 +1562,7 @@ section.padding-60 {
 }
 .social-icons li a {
   color: #fff;
-  background: #21bab6;
+  background: #4fe35d;
   border-radius: 50%;
   display: block;
   height: 30px;
@@ -1571,7 +1571,7 @@ section.padding-60 {
   width: 30px;
 }
 .social-icons li a:hover {
-  color: #21bab6;
+  color: #4fe35d;
   background: #fff;
 }
 
@@ -1613,7 +1613,7 @@ section.padding-60 {
 }
 
 #return-to-top:hover {
-  background: #21bab6;
+  background: #4fe35d;
 }
 
 .videoWrapper {
@@ -1783,7 +1783,7 @@ section.padding-60 {
 }
 
 .slick-dots li.slick-active button:before {
-  background: #21bab6;
+  background: #4fe35d;
   opacity: 1;
   height: 7px;
   width: 7px;
@@ -1801,7 +1801,7 @@ section.padding-60 {
 .slick-dots li button:hover:before,
 .slick-dots li button:focus:before {
   opacity: 1;
-  background: #21bab6;
+  background: #4fe35d;
 }
 
 /*=================================================================*/
@@ -1909,10 +1909,9 @@ section.padding-60 {
 /*# sourceMappingURL=style.css.map */
 
 /*=================================================================*/
-/*                      CROP SETTINGS
+/*                      CUSTOM SETTINGS
 /*=================================================================*/
 
-.crop {
-  width: 800px;
-  height: 600px;
-}
+/* .grid-item {
+  display: none;
+} */
