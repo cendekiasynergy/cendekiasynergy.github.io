@@ -79,25 +79,25 @@ $(window).on("load", function () {
 
   $container.infinitescroll("unbind");
 
-  $(".grid-item").slice(0, 5).show();
+  $(".grid-item").slice(0, 6).show();
 
-  $(".load-more").on("click", function () {
-    $container.infinitescroll("retrieve");
+  $(".load-more .btn").on("click", function () {
+    // $container.infinitescroll("retrieve");
     // display loading icon
-    $(".grid-item: hidden").slice(0, 5).show();
-    $(".load-more").addClass("fa-spin");
+    $(".grid-item: hidden").slice(0, 6).slideDown();
+    // $(".load-more").addClass("fa-spin");
 
-    if (".grid-item: hidden".length == 0) {
-      $(".load-more").fadeOut();
+    if ($(".grid-item: hidden").length == 0) {
+      $(".load-more .btn").fadeOut();
     }
 
-    $(document).ajaxStop(function () {
-      setTimeout(function () {
-        // hide loading icon
-        $(".load-more .btn i").hide();
-      }, 1000);
-    });
-    return false;
+    // $(document).ajaxStop(function () {
+    //   setTimeout(function () {
+    // hide loading icon
+    //     $(".load-more .btn i").hide();
+    //   }, 1000);
+    // });
+    // return false;
   });
 
   /* ======= Mobile Filter ======= */
